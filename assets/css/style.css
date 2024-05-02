@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(33, 37, 41);
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.navbar-brand{
+    color: white;
+    background: transparent;
+}
+
+.nav-link{
+    color: white;
+}
+.navbar-toggler{
+    background-color: white;
+}
+
+.viajes-logo{
+    width: 24px;
+}
+
+.carousel-item img{
+    width: 100%;
+}
+
+i{
+    color: white;
+}
+
+.card{
+    width: 250px;
+}
+
+.card-img-top{
+    height: 165px;
+}
+
+.card-text{
+    font-size: 12px;
+    color: white;
+}
